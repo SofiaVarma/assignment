@@ -1,6 +1,6 @@
 # assignment
 
-products page
-  
+products details page
+
 
 
