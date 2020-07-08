@@ -1,6 +1,5 @@
 # assignment
 
-products details page 1
-
+products details page 1 c
 
 
